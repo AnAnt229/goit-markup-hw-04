@@ -108,6 +108,19 @@ font-family: 'Roboto', sans-serif;
     /* border: 0px; */
 }
 
+.contacts-img-icon{
+
+    fill: var(--color-text-secondary);
+    margin-right: 10px;
+    
+}
+
+.contacts-email-img{
+    display: flex;
+    justify-content: ;
+
+}
+
 /* Hero section */
 
 .hero-section{
